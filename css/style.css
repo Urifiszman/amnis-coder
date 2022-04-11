@@ -20,6 +20,7 @@
     grid-template-columns: repeat(2, 50%);
     align-self: center;
     padding-inline-start: 25%;
+    background-color: black;
 }
 .footer{
     background-color: #008835;

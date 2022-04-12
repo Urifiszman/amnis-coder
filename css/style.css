@@ -54,6 +54,16 @@
     padding-bottom: 10px;
    
 }
+div div{
+box-shadow: none;
+}
+
+div div :hover{
+box-shadow: 5px 5px 5px white;
+width: 27%;
+align-items: center;
+}
+
 .logo{
     width: 100px;
 }
